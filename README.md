@@ -19,7 +19,7 @@ J’ai développé de nombreux projets et developpé une grosse communauté sur 
 - Communication via variables cloud Scratch
 - Logique client-serveur
 
-👉 Code disponible : [https://replit.com/..](https://replit.com/@Nampinanathali/VFYFS-BACKEND?v=1) (peut ne pas s'afficher si non connecté).
+👉 [Code disponible](https://replit.com/@Nampinanathali/VFYFS-BACKEND?v=1) (peut ne pas s'afficher si non connecté).
 👉 Projet non actif aujourd’hui (backend arrêté)
 
 ---
